@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+    <url>
+        <loc>http://127.0.0.1:8000/prezet/prezet</loc>
+        <lastmod>2024-12-08T13:35:44+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>http://127.0.0.1:8000/prezet/breeze</loc>
+        <lastmod>2024-12-08T13:30:12+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>http://127.0.0.1:8000/prezet/cms</loc>
+        <lastmod>2024-12-08T13:42:24+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>http://127.0.0.1:8000/prezet/krayin</loc>
+        <lastmod>2024-12-08T13:38:12+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>http://127.0.0.1:8000/prezet/features/sitemap</loc>
+        <lastmod>2024-12-08T11:27:40+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>http://127.0.0.1:8000/prezet/features/markdown</loc>
+        <lastmod>2024-12-08T11:28:00+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>http://127.0.0.1:8000/prezet/features/blade</loc>
+        <lastmod>2024-12-08T11:28:07+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>http://127.0.0.1:8000/prezet/features/ogimage</loc>
+        <lastmod>2024-12-08T11:27:58+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>http://127.0.0.1:8000/prezet/features/frontmatter</loc>
+        <lastmod>2024-12-08T11:28:05+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>http://127.0.0.1:8000/prezet/features/images</loc>
+        <lastmod>2024-12-08T11:28:03+00:00</lastmod>
+
+            </url>
+    <url>
+        <loc>http://127.0.0.1:8000/prezet/features/seo</loc>
+        <lastmod>2024-12-08T11:27:49+00:00</lastmod>
+
+            </url>
+</urlset>
